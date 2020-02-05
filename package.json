@@ -1,6 +1,6 @@
 {
   "name": "passport-github",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "GitHub authentication strategy for Passport.",
   "keywords": [
     "passport",
@@ -31,7 +31,7 @@
   ],
   "main": "./lib",
   "dependencies": {
-    "passport-oauth2": "1.x.x"
+    "passport-oauth2": "yWorks/passport-oauth2#e70f8f81f09dfc73be6c3b9c24b287a19b757d06"
   },
   "devDependencies": {
     "make-node": "0.4.6",
